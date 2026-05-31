@@ -1,0 +1,8 @@
+{
+  "name": "لطيف للدعم الروحي الرقمي",
+  "description": "منصة رقمية رائدة لتنظيم وتقديم خدمات الدعم الروحي والشرعي للمرضى بالمستشفيات مع المتابعة الميدانية والآلية بالذكاء الاصطناعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
